@@ -1,0 +1,7 @@
+/* ADD/EDIT PROGRAMS HERE. Duplicate one object inside the array for each new program.
+   fee is fixed to ₹100 for the starter checkout flow. Change only if you also update backend validation. */
+window.ZYQEN_PROGRAMS = [
+ {id:"web-starter-workshop",title:"Website Development Starter Workshop",category:"LIVE WORKSHOP",date:"Date to be announced",duration:"2 hours",format:"Online",fee:100,symbol:"</>",description:"A beginner-friendly introduction to how websites are planned, designed, and built.",outcomes:["Understand HTML, CSS, and JavaScript basics","Build a simple responsive page","Learn the next steps for practice"]},
+ {id:"digital-branding-101",title:"Digital Branding Essentials",category:"PRACTICAL SESSION",date:"Date to be announced",duration:"90 minutes",format:"Online",fee:100,symbol:"✳",description:"Learn the foundations of a consistent digital identity and clear brand communication.",outcomes:["Define a simple brand voice","Understand visual consistency","Map content ideas for digital channels"]},
+ {id:"career-tech-orientation",title:"Careers in Technology: Orientation",category:"INTRO SESSION",date:"Date to be announced",duration:"60 minutes",format:"Online",fee:100,symbol:"↗",description:"Explore common technology roles, beginner learning paths, and portfolio-building ideas.",outcomes:["Compare entry-level tech pathways","Plan a practical learning roadmap","Learn how to present project work"]}
+];
